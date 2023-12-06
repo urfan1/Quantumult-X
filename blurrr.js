@@ -10,7 +10,7 @@
 
 [rewrite_local]
 
-^https:\/\/video-beats-api\.360in\.com\/v1\/user\/vip url script-response-body https://raw.githubusercontent.com/urfan1/Quantumult-X/main/blurrr.js
+^https://video-beats-api.360in.com/v1/user/vip url script-response-body https://raw.githubusercontent.com/urfan1/Quantumult-X/main/blurrr.js
 
 [mitm] 
 
