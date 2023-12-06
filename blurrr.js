@@ -14,7 +14,9 @@ Url   ^https://video-beats-api.360in.com/v1/user/vip
 
 （js脚本放在手机本地圈x目录下的Scripts目录里面   文件重命名英文字母）
 
+[rewrite_local]
 
+^https://video-beats-api.360in.com/v1/user/vip url script-response-body https://raw.githubusercontent.com/urfan1/Quantumult-X/main/blurrr.js
 
 [mitm] 
 
