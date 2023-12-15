@@ -10,7 +10,7 @@
 
 [rewrite_local]
 
-^https://www.qimingzidian.top/v01/user-info url script-response-body Qiming.js
+^https://www.qimingzidian.top/v01/user-info url script-response-body https://raw.githubusercontent.com/urfan1/Quantumult-X/main/Qiming.js
 
 [mitm] 
 
