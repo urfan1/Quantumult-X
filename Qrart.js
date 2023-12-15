@@ -10,7 +10,7 @@
 
 [rewrite_local]
 
-^https://firebase-settings.crashlytics.com/spi/v2/platforms/ios/gmp url script-response-body https://raw.githubusercontent.com/urfan1/Quantumult-X/main/Qiming.js
+^https://firebase-settings.crashlytics.com/spi/v2/platforms/ios/gmp url script-response-body https://raw.githubusercontent.com/urfan1/Quantumult-X/main/Qrart.js
 
 [mitm] 
 
