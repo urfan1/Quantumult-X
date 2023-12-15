@@ -25,7 +25,7 @@ var obj = JSON.parse(body);
 const vip = '/v01/user-info';
 
 if (url.indexOf(vip) != -1) {
-    obj.features.prompt_enabled = true;,
+    obj.features.prompt_enabled = true;
     body = JSON.stringify(obj);
 }
 $done({body});
