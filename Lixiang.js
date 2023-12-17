@@ -10,7 +10,7 @@
 
 [rewrite_local]
 
-^https://api.vistopia.com.cn/api/v2/user/profile url script-response-body https://raw.githubusercontent.com/urfan1/Quantumult-X/main/Lixiang.js
+^https:\/\/api\.vistopia\.com\.cn\/api\/v2\/user\/profile url script-response-body https://raw.githubusercontent.com/urfan1/Quantumult-X/main/Lixiang.js
 
 [mitm] 
 
