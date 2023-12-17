@@ -25,7 +25,7 @@ var obj = JSON.parse(body);
 const vip = '/api/v2/user/profile';
 
 if (url.indexOf(vip) != -1) {
-    obj.data.user_file.vip_expire_date = "2088-12-18";
+    obj.data.user_file.vip_expire_date = 2088-12-18;
     obj.data.user_file.vip_expire_days = "2018";
     body = JSON.stringify(obj);
 }
